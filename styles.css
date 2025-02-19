@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+}
+.main-container{
+	width:100vw;
+	heigth:100vh;
+	text-align:center;
+	padding-top:2rem;
+}
+#verification_subtext{
+	opacity:0.6;
+	margin-top:1rem;
+}
+.code{
+	width:3rem;
+	height:3rem;
+	font-size:2rem;
+	text-align:center;
+	
+}
+.code-container{
+	margin-top:1.5rem
+	
+}
